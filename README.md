@@ -9,3 +9,4 @@ Desafios realizado durante o bootcamp de Data Analysis da WomakersCode
 
 [Probabilidade e Amostragem](Probabilida_desfio_individual.ipynb) - Desafio Individual
 
+[Probabilidade e Amostragem](Desafio_probabilidade_amostragem_WoMakersCode.ipynb) - Desafio em Grupo
